@@ -1,0 +1,2 @@
+C:\Users\rizvi\Source\Repos\NorthwindApplication\northwind-frontend\obj\Debug\northwind-frontend.esproj.SuggestedBindingRedirects.cache
+C:\Users\rizvi\Source\Repos\NorthwindApplication\northwind-frontend\obj\Debug\northwind-frontend.esproj.CoreCompileInputs.cache
