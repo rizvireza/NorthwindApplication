@@ -57,13 +57,13 @@ export default function BasicTabs() {
                 </Tabs>
             </Box>
             <TabPanel value={value} index={0}>
-                <CustomerTab/>
+                <CustomerTab />
             </TabPanel>
             <TabPanel value={value} index={1}>
-                <OrderTab/>
+                <OrderTab />
             </TabPanel>
             <TabPanel value={value} index={2}>
-                <CustomerOrdersTab/>
+                <CustomerOrdersTab />
             </TabPanel>
         </Box>
     );

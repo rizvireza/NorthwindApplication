@@ -1,4 +1,5 @@
 using northwind_backend.Models;
+using northwind_backend.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +12,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<NorthwindContext>();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
 
 var app = builder.Build();
 
