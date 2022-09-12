@@ -1,0 +1,159 @@
+TestingLibraryElementError: Unable to find an element with the text: /Weather forecast/i. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+Ignored nodes: comments, script, style
+[36m<body>[39m
+  [36m<div>[39m
+    [36m<div>[39m
+      [36m<div[39m
+        [33mclass[39m=[32m"MuiBox-root css-8atqhb"[39m
+      [36m>[39m
+        [36m<div[39m
+          [33mclass[39m=[32m"MuiBox-root css-1gsv261"[39m
+        [36m>[39m
+          [36m<div[39m
+            [33mclass[39m=[32m"MuiTabs-root css-1ujnqem-MuiTabs-root"[39m
+          [36m>[39m
+            [36m<div[39m
+              [33mclass[39m=[32m"MuiTabs-scroller MuiTabs-fixed css-jpln7h-MuiTabs-scroller"[39m
+              [33mstyle[39m=[32m"overflow: hidden; margin-bottom: 0px;"[39m
+            [36m>[39m
+              [36m<div[39m
+                [33maria-label[39m=[32m"basic tabs example"[39m
+                [33mclass[39m=[32m"MuiTabs-flexContainer css-heg063-MuiTabs-flexContainer"[39m
+                [33mrole[39m=[32m"tablist"[39m
+              [36m>[39m
+                [36m<button[39m
+                  [33maria-controls[39m=[32m"simple-tabpanel-0"[39m
+                  [33maria-selected[39m=[32m"true"[39m
+                  [33mclass[39m=[32m"MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary Mui-selected css-1h9z7r5-MuiButtonBase-root-MuiTab-root"[39m
+                  [33mid[39m=[32m"simple-tab-0"[39m
+                  [33mrole[39m=[32m"tab"[39m
+                  [33mtabindex[39m=[32m"0"[39m
+                  [33mtype[39m=[32m"button"[39m
+                [36m>[39m
+                  [0mCustomers[0m
+                  [36m<span[39m
+                    [33mclass[39m=[32m"MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"[39m
+                  [36m/>[39m
+                [36m</button>[39m
+                [36m<button[39m
+                  [33maria-controls[39m=[32m"simple-tabpanel-1"[39m
+                  [33maria-selected[39m=[32m"false"[39m
+                  [33mclass[39m=[32m"MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary css-1h9z7r5-MuiButtonBase-root-MuiTab-root"[39m
+                  [33mid[39m=[32m"simple-tab-1"[39m
+                  [33mrole[39m=[32m"tab"[39m
+                  [33mtabindex[39m=[32m"-1"[39m
+                  [33mtype[39m=[32m"button"[39m
+                [36m>[39m
+                  [0mOrders[0m
+                  [36m<span[39m
+                    [33mclass[39m=[32m"MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"[39m
+                  [36m/>[39m
+                [36m</button>[39m
+                [36m<button[39m
+                  [33maria-controls[39m=[32m"simple-tabpanel-2"[39m
+                  [33maria-selected[39m=[32m"false"[39m
+                  [33mclass[39m=[32m"MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary css-1h9z7r5-MuiButtonBase-root-MuiTab-root"[39m
+                  [33mid[39m=[32m"simple-tab-2"[39m
+                  [33mrole[39m=[32m"tab"[39m
+                  [33mtabindex[39m=[32m"-1"[39m
+                  [33mtype[39m=[32m"button"[39m
+                [36m>[39m
+                  [0mCustomer Orders[0m
+                  [36m<span[39m
+                    [33mclass[39m=[32m"MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"[39m
+                  [36m/>[39m
+                [36m</button>[39m
+              [36m</div>[39m
+              [36m<span[39m
+                [33mclass[39m=[32m"MuiTabs-indicator css-1aquho2-MuiTabs-indicator"[39m
+                [33mstyle[39m=[32m"left: 0px; width: 0px;"[39m
+              [36m/>[39m
+            [36m</div>[39m
+          [36m</div>[39m
+        [36m</div>[39m
+        [36m<div[39m
+          [33maria-labelledby[39m=[32m"simple-tab-0"[39m
+          [33mid[39m=[32m"simple-tabpanel-0"[39m
+          [33mrole[39m=[32m"tabpanel"[39m
+        [36m>[39m
+          [36m<div[39m
+            [33mclass[39m=[32m"MuiBox-root css-19kzrtu"[39m
+          [36m>[39m
+            [36m<p[39m
+              [33mclass[39m=[32m"MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"[39m
+            [36m>[39m
+              [36m<div[39m
+                [33mclass[39m=[32m"ag-theme-alpine"[39m
+                [33mstyle[39m=[32m"height: 100vh; width: 100vw;"[39m
+              [36m>[39m
+                [36m<div[39m
+                  [33mstyle[39m=[32m"height: 100%;"[39m
+                [36m>[39m
+                  [36m<div[39m
+                    [33mclass[39m=[32m"ag-root-wrapper ag-ltr ag-layout-normal"[39m
+                    [33mrole[39m=[32m"presentation"[39m
+                  [36m>[39m
+                    [36m<div[39m
+                      [33mclass[39m=[32m"ag-root-wrapper-body ag-focus-managed ag-layout-normal"[39m
+                      [33mrole[39m=[32m"presentation"[39m
+                    [36m>[39m
+                      [36m<div[39m
+                        [33mclass[39m=[32m"ag-tab-guard ag-tab-guard-top"[39m
+                        [33mrole[39m=[32m"presentation"[39m
+                        [33mtabindex[39m=[32m"0"[39m
+                      [36m/>[39m
+                      [36m<div[39m
+                        [33maria-colcount[39m=[32m"10"[39m
+                        [33maria-rowcount[39m=[32m"-1"[39m
+                        [33mclass[39m=[32m"ag-root ag-unselectable ag-layout-normal"[39m
+                        [33mrole[39m=[32m"grid"[39m
+                      [36m>[39m
+                        [36m<div[39m
+                          [33mclass[39m=[32m"ag-header ag-pivot-off"[39m
+                          [33mrole[39m=[32m"presentation"[39m
+                          [33mstyle[39m=[32m"height: 49px; min-height: 49px;"[39m
+                        [36m>[39m
+                          [36m<div[39m
+                            [33mclass[39m=[32m"ag-pinned-left-header ag-hidden"[39m
+                            [33mrole[39m=[32m"presentation"[39m
+                            [33mstyle[39m=[32m"width: 0px; min-width: 0px; max-width: 0px;"[39m
+                          [36m>[39m
+                            [36m<div[39m
+                              [33maria-rowindex[39m=[32m"1"[39m
+                              [33mclass[39m=[32m"ag-header-row ag-header-row-column"[39m
+                              [33mrole[39m=[32m"row"[39m
+                              [33mstyle[39m=[32m"height: 48px; top: 0px; width: 0px;"[39m
+                            [36m/>[39m
+                          [36m</div>[39m
+                          [36m<div[39m
+                            [33mclass[39m=[32m"ag-header-viewport "[39m
+                            [33mrole[39m=[32m"presentation"[39m
+                          [36m>[39m
+                            [36m<div[39m
+                              [33mclass[39m=[32m"ag-header-container"[39m
+                              [33mrole[39m=[32m"rowgroup"[39m
+                              [33mstyle[39m=[32m"width: 2000px;"[39m
+         ...
+    at Object.getElementError (C:\git\NorthwindApplication\northwind-frontend\node_modules\@testing-library\dom\dist\config.js:40:19)
+    at C:\git\NorthwindApplication\northwind-frontend\node_modules\@testing-library\dom\dist\query-helpers.js:90:38
+    at C:\git\NorthwindApplication\northwind-frontend\node_modules\@testing-library\dom\dist\query-helpers.js:62:17
+    at getByText (C:\git\NorthwindApplication\northwind-frontend\node_modules\@testing-library\dom\dist\query-helpers.js:111:19)
+    at Object.<anonymous> (C:\git\NorthwindApplication\northwind-frontend\src\App.test.js:6:32)
+    at Promise.then.completed (C:\git\NorthwindApplication\northwind-frontend\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\git\NorthwindApplication\northwind-frontend\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\git\NorthwindApplication\northwind-frontend\node_modules\jest-circus\build\run.js:218:40)
+    at _runTest (C:\git\NorthwindApplication\northwind-frontend\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\git\NorthwindApplication\northwind-frontend\node_modules\jest-circus\build\run.js:66:9)
+    at run (C:\git\NorthwindApplication\northwind-frontend\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\git\NorthwindApplication\northwind-frontend\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\git\NorthwindApplication\northwind-frontend\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\git\NorthwindApplication\northwind-frontend\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\git\NorthwindApplication\northwind-frontend\node_modules\jest-runner\build\runTest.js:475:34)
+    at TestRunner.runTests (C:\git\NorthwindApplication\northwind-frontend\node_modules\jest-runner\build\index.js:101:12)
+    at TestScheduler.scheduleTests (C:\git\NorthwindApplication\northwind-frontend\node_modules\@jest\core\build\TestScheduler.js:333:13)
+    at runJest (C:\git\NorthwindApplication\northwind-frontend\node_modules\@jest\core\build\runJest.js:404:19)
+    at _run10000 (C:\git\NorthwindApplication\northwind-frontend\node_modules\@jest\core\build\cli\index.js:320:7)
+    at Object.runCLI (C:\git\NorthwindApplication\northwind-frontend\node_modules\@jest\core\build\cli\index.js:173:3)
+    at C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\NODEJSTOOLS\TESTADAPTER\TestFrameworks\Jest\Jest.js:69:13
